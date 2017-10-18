@@ -4,4 +4,4 @@ const Name={
 		console.log(this.name);
 	}
 }
-export {Name} //es6语法 暴露用
+export {Name as default} //es6语法 暴露用
